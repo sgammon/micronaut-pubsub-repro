@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: demo
+
+gcp:
+  project-id: project-id-here
